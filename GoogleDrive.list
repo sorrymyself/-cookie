@@ -1,5 +1,6 @@
 # > Google Drive
-USER-AGENT,Google.Drive*
-USER-AGENT,*com.google.Drive*
-DOMAIN-SUFFIX,docs.google.com
-DOMAIN-SUFFIX,drive.google.com
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,Google Drive
+USER-AGENT,Google.Drive*,Google Drive
+USER-AGENT,*com.google.Drive*,Google Drive
+DOMAIN-SUFFIX,docs.google.com,Google Drive
+DOMAIN-SUFFIX,drive.google.com,Google Drive
