@@ -1,5 +1,4 @@
 # > Google Drive
-USER-AGENT,äºç«¯ç¡¬ç*
 USER-AGENT,Google.Drive*
 USER-AGENT,*com.google.Drive*
 DOMAIN-SUFFIX,docs.google.com
